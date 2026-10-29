@@ -27,7 +27,7 @@ flowchart LR
     E -->|通过| G[归档或发布]
 ```
 
-例如，用户可以直接告诉 WorkBuddy，分析这个文件夹中的销售数据，并生成一份汇报 PPT。
+例如，用户可以直接告诉 WorkBuddy，分析这个文件中的销售数据，并生成一份汇报 PPT。
 
 ![](assets/002_image_IaB9bqqj6o.png)
 
